@@ -8,6 +8,10 @@
     margin-top: 10%;
 }
 
+h1{
+    margin-bottom: 20px;
+}
+
 .clock{
     position: relative;
     width: 300px;

@@ -16,7 +16,7 @@ h1{
     position: relative;
     width: 300px;
     height:300px;
-    background-image: url("img/clockface.png");
+    background-image: url(images/clockface.png);
     background-repeat: no-repeat;
     background-size: cover;
     list-style: none;
@@ -31,7 +31,7 @@ h1{
 }
 
 .second{
-    background-image: url("img/sechand.png");
+    background-image: url(images/sechand.png);
     z-index: 3;
     background-repeat: no-repeat;
 }
